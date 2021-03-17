@@ -1,0 +1,50 @@
+/***********************Tag Selectors*********************/
+
+h1 {
+  font-size: 100px;
+  color: #1f441e;
+  text-align: center;
+  font-family: cursive;
+  justify-content: space-around;
+}
+
+p {
+  text-decoration: underline;
+  text-align: center;
+  font-family: cursive;
+  font-style: oblique;
+  font-size: 130%;
+  justify-content: space-around;
+  
+}
+
+
+#heading {
+  color:green;
+  font-size:90px;
+  font-family:serif;
+}
+
+body {
+  background-color: #b8b5ff;
+}
+
+img:hover {
+  transition:1.15s;
+  background-color: gold;
+  
+}
+
+p:hover {
+  transition: .5s;
+  color:gold;
+}
+/***********************Class Selectors*********************/
+
+.hotdog {
+  background-color:green;
+}
+
+.broccoli {
+  background-color:red;
+}
